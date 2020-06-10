@@ -3,7 +3,7 @@
   <metadata>
     <id>dx9sdk</id>
     <version>9.29.1962.0</version>
-    <title>DirectX 9 Software Development Kit - June 2010 [autoinstall]</title>
+    <title>DirectX 9 SDK - June 2010 [autoinstall]</title>
     <authors>Microsoft</authors>
     <projectUrl>https://github.com/cybik/chocodx9sdkinstall</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/cybik/chocodx9install/master/LICENSE.txt</licenseUrl>
@@ -12,6 +12,9 @@
     <summary>Unattended install of the DirectX 9 SDK, June 2010 build</summary>
     <description>Unattended install of the DirectX 9 SDK, June 2010 build</description>
     <releaseNotes>Initial (possibly only ever) release</releaseNotes>
+    <dependencies>
+      <dependency id="DotNet3.5" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
