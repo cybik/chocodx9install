@@ -3,7 +3,7 @@
   <metadata>
     <id>dx9sdk</id>
     <version>9.29.1962.0</version>
-    <title>DirectX 9 SDK - June 2010 [autoinstall]</title>
+    <title>DirectX 9 SDK - June 2010</title>
     <authors>Microsoft</authors>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=6812</projectUrl>
     <packageSourceUrl>https://github.com/cybik/chocodx9sdkinstall</packageSourceUrl>
