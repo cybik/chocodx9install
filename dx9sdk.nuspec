@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>dx9sdk</id>
+    <version>9.29.1962.0</version>
+    <title>DirectX 9 Software Development Kit - June 2010 [autoinstall]</title>
+    <authors>cybik</authors>
+    <projectUrl>https://github.com/cybik/chocodx9sdkinstall</projectUrl>
+    <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
+    <docsUrl>http://www.msdn.microsoft.com/directx</docsUrl>
+    <tags>dx9sdk</tags>
+    <summary>Unattended install of the DirectX 9 SDK, June 2010 build</summary>
+    <description>Unattended install of the DirectX 9 SDK, June 2010 build</description>
+    <releaseNotes>Initial (possibly only ever) release</releaseNotes>
+    <!-- =============================== -->      
+
+    <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
+    <!--<dependencies>
+      <dependency id="" version="__MINIMUM_VERSION__" />
+      <dependency id="" version="[__EXACT_VERSION__]" />
+      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_INCLUSIVE]" />
+      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_EXCLUSIVE)" />
+      <dependency id="" />
+      <dependency id="chocolatey-core.extension" version="1.1.0" />
+    </dependencies>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
