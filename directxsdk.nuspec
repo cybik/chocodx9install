@@ -5,7 +5,7 @@
     <version>9.29.1962.0</version>
     <title>DirectX SDK</title>
     <authors>Microsoft</authors>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/moo.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/cybik/chocodxsdkinstall/primary/icon.png</iconUrl>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=6812</projectUrl>
     <packageSourceUrl>https://github.com/cybik/chocodxsdkinstall</packageSourceUrl>
     <licenseUrl>https://raw.githubusercontent.com/cybik/chocodxinstall/master/LICENSE.txt</licenseUrl>
