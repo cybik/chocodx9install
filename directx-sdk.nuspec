@@ -9,7 +9,7 @@
     <iconUrl>https://raw.githubusercontent.com/cybik/chocodxsdkinstall/primary/icon.png</iconUrl>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=6812</projectUrl>
     <packageSourceUrl>https://github.com/cybik/chocodxsdkinstall</packageSourceUrl>
-    <licenseUrl>https://raw.githubusercontent.com/cybik/chocodxinstall/master/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/cybik/chocodxsdkinstall/primary/LICENSE.txt</licenseUrl>
     <docsUrl>http://www.msdn.microsoft.com/directx</docsUrl>
     <tags>directxsdk directx-sdk</tags>
     <summary>Unattended install of the DirectX SDK</summary>
