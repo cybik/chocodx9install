@@ -10,7 +10,7 @@ $packageArgs = @{
   
   softwareName  = 'Microsoft*DirectX*SDK*June 2010*'
 
-  checksum      = '9F818A977C32B254AF5D649A4CEC269ED8762F8A49AE67A9F01101A7237AE61A'
+  checksum      = '705271DC83BFEE54D9B94E028426E288D5F070784B7446D164F48ECFBB2A02CB'
   checksumType  = 'sha256'
 
   silentArgs   = '/U'
